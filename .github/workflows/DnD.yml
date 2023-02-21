@@ -1,0 +1,2 @@
+- name: DnD LaTeX compilation
+  uses: matsavage/dnd-latex-action@v0.3.0
